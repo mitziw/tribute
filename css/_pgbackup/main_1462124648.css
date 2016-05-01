@@ -1,0 +1,25 @@
+
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+.banner
+{
+    background-image: url('../img/cesar-chavez-hunger-strike-o-cesar-chavez-ufw-facebook.jpg');
+    background-size: 1000px;
+    height: 400px;
+}
+
+.bannertext
+{
+    padding-top: 20px;
+}
+
+@media screen
+{
+    .timeline
+    {
+    }
+}
+
